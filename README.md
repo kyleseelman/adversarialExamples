@@ -5,7 +5,8 @@ Requirements:
 keras
 pytorch
 foolbox
-
+matplotlib
+numpy
 
 Run mnistcnn.py to train a convolutional neural network on the MNIST dataset. Gets about a 99% accuracy after 12 epochs.
 
